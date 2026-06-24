@@ -1,5 +1,4 @@
 ﻿# markov-portfolio-switcher
-# markov-portfolio-switcher
 
 A regime-switching dynamic portfolio allocation system for Indian equity markets (Nifty 50).
 
